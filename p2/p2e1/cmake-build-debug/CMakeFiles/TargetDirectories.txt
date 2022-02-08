@@ -1,3 +1,0 @@
-C:/Users/linco/Desktop/fakku/quarentena/PP/p2e1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/linco/Desktop/fakku/quarentena/PP/p2e1/cmake-build-debug/CMakeFiles/p2e1.dir
-C:/Users/linco/Desktop/fakku/quarentena/PP/p2e1/cmake-build-debug/CMakeFiles/edit_cache.dir
