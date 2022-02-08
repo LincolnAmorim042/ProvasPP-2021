@@ -1,3 +1,0 @@
-C:/Users/linco/Desktop/fakku/quarentena/PP/poe3/cmake-build-debug/CMakeFiles/poe3.dir
-C:/Users/linco/Desktop/fakku/quarentena/PP/poe3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/linco/Desktop/fakku/quarentena/PP/poe3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
