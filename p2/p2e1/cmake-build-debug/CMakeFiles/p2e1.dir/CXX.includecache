@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/linco/Desktop/fakku/quarentena/PP/p2e1/intOrd.h
+vector
+-
+
+C:/Users/linco/Desktop/fakku/quarentena/PP/p2e1/main.cpp
+iostream
+-
+intOrd.h
+C:/Users/linco/Desktop/fakku/quarentena/PP/p2e1/intOrd.h
+
