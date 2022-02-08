@@ -1,0 +1,4 @@
+%não deu
+
+descobresenha([],[],[]).
+descobresenha().
